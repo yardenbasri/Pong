@@ -1,3 +1,1 @@
-# Pong
-A pong game on offline mode.
-In the future an online and Ai modes will be added.
+A pong game that was created in order to practice pygame.
